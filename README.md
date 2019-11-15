@@ -4,7 +4,7 @@
 #### Create A Trigger On The SysJobHistory Table To Execute A Job
 **发布-日期: 2015年07月15日 (评论)**
 
-![#](images/image0012.png?raw=true "#")
+![#](images/li-congming-software-engineer-200x200.png?raw=true "#")
 
 ## Contents
 
