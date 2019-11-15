@@ -4,10 +4,10 @@
 #### Create A Trigger On The SysJobHistory Table To Execute A Job
 **发布-日期: 2015年07月15日 (评论)**
 
-![#](images/li-congming-software-engineer-200x200.png?raw=true "#")
+<img align="right" width="200" height="200" src="https://github.com/LiCongMingDeShujuku/git-resources/blob/master/images/li-congming-software-engineer-200x200.png">
 
 ## Contents
-<img align="right" width="100" height="100" src="https://github.com/LiCongMingDeShujuku/git-resources/blob/master/images/li-congming-software-engineer-200x200.png">
+
 - [中文](#中文)
 - [English](#English)
 - [SQL Logic](#Logic)
