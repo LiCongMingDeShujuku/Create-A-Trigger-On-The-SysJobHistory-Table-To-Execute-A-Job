@@ -6,8 +6,6 @@
 
 ## Contents
 
-<img align="right" width="200" height="200" src="https://github.com/LiCongMingDeShujuku/git-resources/blob/master/images/li-congming-software-engineer-200x200r.png">
-
 - [中文](#中文)
 - [English](#English)
 - [SQL Logic](#Logic)
